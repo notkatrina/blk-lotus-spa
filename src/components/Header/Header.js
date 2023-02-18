@@ -19,6 +19,7 @@ class Header extends Component {
             <ListLink to={`/`}>home</ListLink>
             <ListLink to={`/blog/`}>blog</ListLink>
             <ListLink to={`/contact/`}>contact</ListLink>
+             <div data-netlify-identity-menu></div>
           </ul>
         </nav>
       </header>

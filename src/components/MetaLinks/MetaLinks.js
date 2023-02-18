@@ -13,6 +13,7 @@ const MetaLinks = () => {
           href="https://fonts.googleapis.com/icon?family=Material+Icons"
         />
         <link href="https://fonts.googleapis.com/css?family=Lora|Playfair+Display:900&display=swap" rel="stylesheet"/>
+        <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
       </Helmet>
     </>
   )
